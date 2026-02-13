@@ -1,2 +1,2 @@
-# jade-repo
+# kosal-repo
 Try the best
